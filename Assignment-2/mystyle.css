@@ -1,0 +1,182 @@
+.TitleText
+{
+    margin-top: 50px;
+    text-align: center;
+    color: rgb(88, 2, 88);
+}
+
+.SubText
+{
+    margin-top: 40px;
+    text-align: center;
+    color: rgb(116, 112, 112);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: medium;
+}
+
+.Rate
+{
+    margin-left: 520px;
+    margin-top: 30px;
+    text-align: center;
+    font-family:sans-serif;
+    border: 1px outset black;
+    padding: 5px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    width: 300px;
+    background-color: rgb(221, 211, 201);;
+    border-top-left-radius: 35% ;
+    border-bottom-right-radius: 35%;
+}
+
+
+.box1
+{
+    width: 300px;
+    background-color: rgb(58, 0, 58);
+    font-size: xx-small;
+    border-radius: 5%;
+    margin-left: 140px;
+    margin-top: 15px;
+    padding: 5px;
+}
+
+.userimage1
+{
+    margin-left: 10px;
+}
+
+
+.name1
+{
+    margin-left: 100px;
+    margin-top: -80px;
+    font-family:Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+.verifier1
+{
+    margin-left: 120px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(134, 0, 72);
+    margin-top: -10px;
+}
+
+.dis1
+{
+    margin-top: 20px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    font-size: small;
+}
+
+
+.box2
+{
+    width: 300px;
+    background-color: rgb(58, 0, 58);
+    font-size: xx-small;
+    border-radius: 5%;
+    margin-left: 500px;
+    margin-top: -160px;
+    padding: 5px;
+}
+
+.userimage2
+{
+    margin-left: 10px;
+}
+
+
+.name2
+{
+    margin-left: 100px;
+    margin-top: -80px;
+    font-family:Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+.verifier2
+{
+    margin-left: 120px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(134, 0, 72);
+    margin-top: -10px;
+}
+
+.dis2
+{
+    margin-top: 20px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    font-size: small;
+}
+
+
+.box3
+{
+    width: 300px;
+    background-color: rgb(58, 0, 58);
+    font-size: xx-small;
+    border-radius: 5%;
+    margin-left: 880px;
+    margin-top: -164px;
+    padding: 5px;
+}
+
+.userimage3
+{
+    margin-left: 10px;
+}
+
+
+.name3
+{
+    margin-left: 100px;
+    margin-top: -80px;
+    font-family:Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+.verifier3
+{
+    margin-left: 120px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(134, 0, 72);
+    margin-top: -10px;
+}
+
+.dis3
+{
+    margin-top: 20px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    font-size: small;
+}
+
+.News
+{
+    margin-top: 40px;
+    box-sizing: border-box;
+    background-color: rgba(255, 136, 0, 0.808);
+    text-align: center;
+    padding: 20px;
+}
+
+.Letter
+{
+    margin-top: 3px;
+    font-size: xx-large;
+}
+
+.textnews
+{
+    margin-top: 10px;
+}
+
+.input
+{
+    margin-top: 15px;
+}

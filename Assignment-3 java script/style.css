@@ -1,0 +1,50 @@
+body
+{
+    background-color: rgb(171, 206, 206);
+}
+
+.WebName
+{
+    text-align: center;
+    font-size: xx-large;
+    font-weight: 200;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-bottom: 100px;
+}
+
+.Product2
+{
+    display: flex;
+}
+
+.check
+{
+    padding-right: 10px;
+    width: 50px;
+    margin: 5px;
+    text-align: center;
+    line-height: 100px;
+}
+
+.product-title
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+}
+
+.product-image
+{
+    padding-right: 20px;
+}
+
+.product-price
+{
+    padding-left: 100px;
+    line-height: 100px;
+}
+
+.CheckCartListTag
+{
+    text-align: center;
+    font-size: medium;
+}

@@ -3,7 +3,7 @@ body
     background-color: rgb(171, 206, 206);
 }
 
-.WebName
+.WebsiteName
 {
     text-align: center;
     font-size: xx-large;
@@ -12,7 +12,7 @@ body
     margin-bottom: 100px;
 }
 
-.Product2
+.ProductClass
 {
     display: flex;
 }
